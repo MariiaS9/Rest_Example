@@ -9,6 +9,6 @@ public class InfoController {
 
     @GetMapping("/info")
     public String getInfo(){
-        return "My Rest example";
+        return "My Rest open";
     }
 }
